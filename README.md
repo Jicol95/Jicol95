@@ -6,4 +6,4 @@ I'm a Backend Engineer at [Pleo](https://www.pleo.io/en) currently working on pr
 #### Languages I've Used At Work
 ---
 
-C#, TypeScript and Kotlin
+Kotlin, C#, and TypeScript 
